@@ -1,0 +1,8 @@
+id,name,salary,department,join_date
+1,Kishore,50000,IT,2023-01-01
+2,  Amit  ,60000,Sales,2022/05/15
+3,Sneha,NaN,HR,2021-10-10
+4,Rahul,55000,#Value!,2023-03-20
+5,,45000,IT,None
+6,Vikram,???,Marketing,2020-01-01
+7,Priya,70000,IT,2022-12-12
